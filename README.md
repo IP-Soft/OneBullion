@@ -1,2 +1,2 @@
-# OneBullion g
+# OneBullion
 Start
